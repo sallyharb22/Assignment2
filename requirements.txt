@@ -1,6 +1,5 @@
 altair==4.2.0
 appdata==2.1.2
-appnope @ file:///opt/concourse/worker/volumes/live/6ca6f098-d773-4461-5c91-a24a17435bda/volume/appnope_1606859448531/work==None
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work==None
 argon2-cffi-bindings @ file:///opt/concourse/worker/volumes/live/42cf1b28-e71f-45ed-47b2-50f828088636/volume/argon2-cffi-bindings_1644569709119/work==None
 asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work==None
