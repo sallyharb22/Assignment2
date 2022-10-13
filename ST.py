@@ -13,11 +13,11 @@ import streamlit as st
 # In[2]:
 
 
-df = pd.read_csv (r'/Users/sallyharb/Desktop/Assignment 2/Data/student_scores.csv')
-df1 = pd.read_csv (r'/Users/sallyharb/Desktop/Assignment 2/Data/smoke_detection_iot.csv')
-df2 = pd.read_csv (r'/Users/sallyharb/Desktop/Assignment 2/Data/Breast_Cancer.csv')
-df3 = pd.read_csv (r'/Users/sallyharb/Desktop/Assignment 2/Data/vending_machine_sales.csv')
-df4 = pd.read_excel(r'/Users/sallyharb/Desktop/Assignment 2/Data/Kerala data.xlsx')
+df = pd.read_csv('student_scores.csv')
+df1 = pd.read_csv('smoke_detection_iot.csv')
+df2 = pd.read_csv('Breast_Cancer.csv')
+df3 = pd.read_csv('vending_machine_sales.csv')
+df4 = pd.read_excel('Kerala data.xlsx')
 
 
 # In[3]:
